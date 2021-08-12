@@ -1,4 +1,4 @@
-## Projeto criado durante a nlw 5( ou 4?, não lembro)
+## Projeto criado durante a nlw 5( ou 4? não lembro) da rocketseat
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
